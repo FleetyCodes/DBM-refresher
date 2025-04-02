@@ -1,6 +1,6 @@
 REM 0. configure the routes
 set wowdir=C:\Program Files (x86)\World of Warcraft\_retail_\Interface\AddOns
-set desktop=C:\Users\Username\Desktop
+set desktop=%USERPROFILE%\Desktop
 
 @echo DBM refresher v1.2 - Fleety
 @echo off
