@@ -8,4 +8,4 @@ Not a big deal, but it made my life so much easier and soooo much more comfortab
 Requirements: 
 1. Installed WoW
 2. Installed GIT
-3. Modify the .bat file first line. It is the place of your installed game's addons folder (prefilled for example).
+3. Modify the .bat file first line. It is the place of your installed game's addons folder (prefilled for an example).
